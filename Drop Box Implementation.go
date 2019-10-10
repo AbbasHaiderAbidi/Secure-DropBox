@@ -1,15 +1,8 @@
 package assn1
 import (
 
-	// You neet to add with
-	// go get github.com/sarkarbidya/CS628-assn1/userlib
-
-	"github.com/sarkarbidya/CS628-assn1/userlib"
-	//"fmt"
-	// Life is much easier with json:  You are
-	// going to want to use this so you can easily
-	// turn complex structures into strings etc...
-
+	
+	
 	"encoding/json"
 
 	// Likewise useful for debugging etc
